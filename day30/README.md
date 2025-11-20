@@ -9,7 +9,7 @@ It also contains the trained model in ONNX format.
    
     `pip install -r requirements.txt`
 
-2. Create a folder named `final_model_onnx` and paste the model files inside.
+2. Create a folder named `final_model_onnx` inside `models` folder and paste the model files inside.
 
 3. Run the FastAPI backend using uvicorn
    
